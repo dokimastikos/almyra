@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "almyra",
+    "description": "",
+    "home_page_url": "https://dokimastikos.github.io/almyra",
+    "feed_url": "https://dokimastikos.github.io/almyra/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Thomas Papamichail"
+    },
+    "items": [
+    ]
+}
